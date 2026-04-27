@@ -9,18 +9,18 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Pedro Miguel Souza Dias
+- Matricula: 907880
+- Proposta de projeto escolhida: A proposta escolhida foi uma rede social para fãs da cantora Sabrina Carpenter!
+- Breve descrição sobre seu projeto: Uma rede social para fãs da cantora Sabrina Carpenter fazerem posts sobre as músicas ou sobre ela, com uma aba apenas para exibir proximos shows da artista, uma aba sobre o site e outra para login e cadastro
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-1.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
